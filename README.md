@@ -1,42 +1,40 @@
-## ToDoo-Hub - a vibrant todo app
+# Regional Meeting Rescheduled Notification
 
-## Table of contents
+## Date: 3rd August 2024
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+### Overview
+This README provides essential information regarding the rescheduled regional meeting. Due to unforeseen circumstances, the original meeting date has been moved to **3rd August 2024**. Please find the details below.
 
-## Overview
+### Details
+- **New Date:** 3rd August 2024
+- **Time:** 11:00 AM - 13:00 PM
+- **Venue:** [Will update]
+- **Agenda:** 
+  - Welcome and Introduction
+  - Keynote Address
+  - Project Updates
+  - Breakout Sessions
+  - Networking Lunch
+  - Future Plans and Strategies
+  - Q&A Session
+  - Closing Remarks
 
-### The challenge
+### Action Items
+- **RSVP:** Confirm your attendance by [Click Here].
+- **Preparation:**
+  - Review the attached agenda document.
+  - Prepare any reports or presentations if you are scheduled to present.
+  - Submit any questions or topics you would like to discuss in advance.
 
-Users should be able to:
+### Contact Information
+For any questions or additional information, please contact:
 
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Create, read, update, and delete tasks
-- Receive form validations when trying to create/edit boards and tasks
-- Mark subtasks as complete and move tasks between columns
-- Hide/show the board sidebar
-
-Expected Behaviour:
-
-- Boards
-  - Clicking different boards in the sidebar will change to the selected board
-- Tasks
-  - Adding a new task adds it to the bottom of the relevant column.
-  - Updating a task's status will move the task to the relevant column.
+- **Name:** HR-Reg.
+- **Email:** info@msg91
 
 
+Thank you for your understanding and cooperation. We look forward to a productive and engaging meeting on the rescheduled date.
 
-### Built with
+Best regards,
 
-- [TailwindCSS](https://tailwindcss.com/) - CSS Framework
-- Drag and Drop API
-- [React](https://reactjs.org/) - JS library
-- [Redux](https://redux.js.org/) - State management tool
-
+MSG91 - FAST TECHNOLOGIES
